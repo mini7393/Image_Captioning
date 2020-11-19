@@ -16,3 +16,4 @@ opencv-python
 tqdm
 urllib3
 utils
+cv2
