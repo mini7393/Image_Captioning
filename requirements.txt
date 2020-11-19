@@ -14,7 +14,6 @@ nltk>=3.4.5Flask
 h5py
 Keras
 opencv-python
-Pillow
 request
 tensorboard
 tensorflow
