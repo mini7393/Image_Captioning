@@ -14,5 +14,6 @@ nltk>=3.4.5
 Keras
 tqdm
 urllib3
+tensorflow
 utils
 opencv-python-headless==4.2.0.32
